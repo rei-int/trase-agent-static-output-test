@@ -1,0 +1,1 @@
+"""Static-output test agent."""
